@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codebreaker.GameAPIs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5dd914dcfb82631ad19ab94b1b88559846fdf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c645ac98f90829dfa702347976222926917316")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codebreaker.GameAPIs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codebreaker.GameAPIs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeBreaker.Bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5dd914dcfb82631ad19ab94b1b88559846fdf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c645ac98f90829dfa702347976222926917316")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeBreaker.Bot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeBreaker.Bot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
