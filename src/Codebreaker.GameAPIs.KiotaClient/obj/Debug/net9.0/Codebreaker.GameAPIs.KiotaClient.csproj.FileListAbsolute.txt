@@ -1,0 +1,13 @@
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\bin\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.deps.json
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\bin\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.dll
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\bin\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.pdb
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.csproj.AssemblyReference.cache
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.AssemblyInfoInputs.cache
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.AssemblyInfo.cs
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.csproj.CoreCompileInputs.cache
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.sourcelink.json
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.dll
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\refint\Codebreaker.GameAPIs.KiotaClient.dll
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\Codebreaker.GameAPIs.KiotaClient.pdb
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.GameAPIs.KiotaClient\obj\Debug\net9.0\ref\Codebreaker.GameAPIs.KiotaClient.dll

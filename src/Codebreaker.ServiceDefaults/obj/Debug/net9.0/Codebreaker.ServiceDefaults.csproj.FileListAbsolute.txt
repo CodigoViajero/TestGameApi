@@ -1,0 +1,13 @@
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\bin\Debug\net9.0\Codebreaker.ServiceDefaults.deps.json
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\bin\Debug\net9.0\Codebreaker.ServiceDefaults.dll
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\bin\Debug\net9.0\Codebreaker.ServiceDefaults.pdb
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.csproj.AssemblyReference.cache
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.AssemblyInfoInputs.cache
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.AssemblyInfo.cs
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.sourcelink.json
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.dll
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\refint\Codebreaker.ServiceDefaults.dll
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\Codebreaker.ServiceDefaults.pdb
+D:\PRACTICE_PROJECTS\.NET\BOOKS\Pragmatic-Microservices-with-CSharp-and-Azure_\Local\TestGameApi\src\Codebreaker.ServiceDefaults\obj\Debug\net9.0\ref\Codebreaker.ServiceDefaults.dll

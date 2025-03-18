@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.InitalizeAppConfig\\Codebreaker.InitalizeAppConfig.csproj": {}
+  },
+  "projects": {
+    "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.InitalizeAppConfig\\Codebreaker.InitalizeAppConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.InitalizeAppConfig\\Codebreaker.InitalizeAppConfig.csproj",
+        "projectName": "Codebreaker.InitalizeAppConfig",
+        "projectPath": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.InitalizeAppConfig\\Codebreaker.InitalizeAppConfig.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.InitalizeAppConfig\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.ServiceDefaults\\Codebreaker.ServiceDefaults.csproj": {
+                "projectPath": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.ServiceDefaults\\Codebreaker.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Azure.Data.AppConfiguration": {
+              "target": "Package",
+              "version": "[1.5.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.9.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Aspire.Azure.Messaging.EventHubs": "9.0.0",
+            "Aspire.Azure.Storage.Blobs": "9.0.0",
+            "Aspire.Azure.Storage.Queues": "9.0.0",
+            "Aspire.Confluent.Kafka": "9.0.0",
+            "Aspire.Hosting.AppHost": "9.0.0",
+            "Aspire.Hosting.Azure": "9.0.0",
+            "Aspire.Hosting.Azure.AppConfiguration": "9.0.0",
+            "Aspire.Hosting.Azure.ApplicationInsights": "9.0.0",
+            "Aspire.Hosting.Azure.CosmosDB": "9.0.0",
+            "Aspire.Hosting.Azure.EventHubs": "9.0.0",
+            "Aspire.Hosting.Azure.KeyVault": "9.0.0",
+            "Aspire.Hosting.Azure.SignalR": "9.0.0",
+            "Aspire.Hosting.Azure.Sql": "9.0.0",
+            "Aspire.Hosting.Azure.Storage": "9.0.0",
+            "Aspire.Hosting.Kafka": "9.0.0",
+            "Aspire.Hosting.MySql": "9.0.0",
+            "Aspire.Hosting.RabbitMQ": "9.0.0",
+            "Aspire.Hosting.Redis": "9.0.0",
+            "Aspire.Hosting.SqlServer": "9.0.0",
+            "Aspire.Hosting.Testing": "9.0.0",
+            "Aspire.Microsoft.Azure.Cosmos": "9.0.0",
+            "Aspire.Microsoft.EntityFrameworkCore.Cosmos": "9.0.0",
+            "Aspire.Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+            "Aspire.Pomelo.EntityFrameworkCore.MySql": "9.0.0",
+            "Aspire.StackExchange.Redis": "9.0.0",
+            "Aspire.StackExchange.Redis.DistributedCaching": "9.0.0",
+            "Azure.Data.AppConfiguration": "1.5.0",
+            "Azure.Identity": "1.13.1",
+            "Azure.Monitor.OpenTelemetry.AspNetCore": "1.2.0",
+            "BlazorApplicationInsights": "3.1.0",
+            "CNinnovation.Codebreaker.Analyzers": "3.8.0",
+            "CNinnovation.Codebreaker.BackendModels": "3.8.0",
+            "CNinnovation.Codebreaker.Cosmos": "3.8.0",
+            "CNinnovation.Codebreaker.GamesClient": "3.8.0",
+            "CNinnovation.Codebreaker.SqlServer": "3.8.0",
+            "coverlet.collector": "6.0.2",
+            "Google.Protobuf": "3.28.3",
+            "Grpc.AspNetCore": "2.67.0",
+            "Grpc.Net.ClientFactory": "2.67.0",
+            "Grpc.Tools": "2.67.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": "9.0.0",
+            "Microsoft.AspNetCore.Components.QuickGrid": "9.0.0",
+            "Microsoft.AspNetCore.Components.Web": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": "9.0.0",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.0",
+            "Microsoft.AspNetCore.SignalR.Client": "9.0.0",
+            "Microsoft.AspNetCore.SignalR.Protocols.MessagePack": "9.0.0",
+            "Microsoft.Authentication.WebAssembly.Msal": "9.0.0",
+            "Microsoft.Azure.AppConfiguration.AspNetCore": "8.0.0",
+            "Microsoft.Azure.Cosmos": "3.46.0",
+            "Microsoft.Azure.SignalR": "1.29.0",
+            "Microsoft.EntityFrameworkCore.Cosmos": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
+            "Microsoft.Extensions.ApiDescription.Server": "9.0.0",
+            "Microsoft.Extensions.Azure": "1.9.0",
+            "Microsoft.Extensions.Configuration": "9.0.0",
+            "Microsoft.Extensions.Configuration.AzureAppConfiguration": "8.0.0",
+            "Microsoft.Extensions.Configuration.Binder": "9.0.0",
+            "Microsoft.Extensions.Configuration.Json": "9.0.0",
+            "Microsoft.Extensions.Diagnostics.Testing": "9.0.0",
+            "Microsoft.Extensions.Hosting": "9.0.0",
+            "Microsoft.Extensions.Http": "9.0.0",
+            "Microsoft.Extensions.Http.Resilience": "9.0.0",
+            "Microsoft.Extensions.Localization": "9.0.0",
+            "Microsoft.Extensions.ServiceDiscovery": "9.0.0",
+            "Microsoft.Extensions.ServiceDiscovery.Yarp": "9.0.0",
+            "Microsoft.FeatureManagement.AspNetCore": "4.0.0",
+            "Microsoft.Identity.Web": "3.5.0",
+            "Microsoft.Identity.Web.DownstreamApi": "3.5.0",
+            "Microsoft.Identity.Web.UI": "3.5.0",
+            "Microsoft.Kiota.Http.HttpClientLibrary": "1.16.1",
+            "Microsoft.Kiota.Serialization.Form": "1.16.1",
+            "Microsoft.Kiota.Serialization.Json": "1.16.1",
+            "Microsoft.Kiota.Serialization.Multipart": "1.16.1",
+            "Microsoft.Kiota.Serialization.Text": "1.16.1",
+            "Microsoft.NET.Test.Sdk": "17.12.0",
+            "Microsoft.Playwright": "1.49.0",
+            "Microsoft.Playwright.NUnit": "1.49.0",
+            "Moq": "4.20.72",
+            "NUnit": "4.3.1",
+            "NUnit.Analyzers": "4.5.0",
+            "NUnit3TestAdapter": "4.6.0",
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.10.0",
+            "OpenTelemetry.Exporter.Prometheus.AspNetCore": "1.9.0-beta.2",
+            "OpenTelemetry.Extensions.Hosting": "1.10.0",
+            "OpenTelemetry.Instrumentation.AspNetCore": "1.10.1",
+            "OpenTelemetry.Instrumentation.GrpcNetClient": "1.0.0-rc9",
+            "OpenTelemetry.Instrumentation.Http": "1.10.0",
+            "OpenTelemetry.Instrumentation.Runtime": "1.10.0",
+            "Spectre.Console.Cli": "0.49.1",
+            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore.Annotations": "7.2.0",
+            "xunit": "2.9.2",
+            "xunit.runner.visualstudio": "3.0.0",
+            "Yarp.ReverseProxy": "2.2.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.ServiceDefaults\\Codebreaker.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.ServiceDefaults\\Codebreaker.ServiceDefaults.csproj",
+        "projectName": "Codebreaker.ServiceDefaults",
+        "projectPath": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.ServiceDefaults\\Codebreaker.ServiceDefaults.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "D:\\PRACTICE_PROJECTS\\.NET\\BOOKS\\Pragmatic-Microservices-with-CSharp-and-Azure_\\Local\\TestGameApi\\src\\Codebreaker.ServiceDefaults\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "CentralPackageTransitivePinningEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1507"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.10.0, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.10.0, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.10.1, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.10.0, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.10.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Aspire.Azure.Messaging.EventHubs": "9.0.0",
+            "Aspire.Azure.Storage.Blobs": "9.0.0",
+            "Aspire.Azure.Storage.Queues": "9.0.0",
+            "Aspire.Confluent.Kafka": "9.0.0",
+            "Aspire.Hosting.AppHost": "9.0.0",
+            "Aspire.Hosting.Azure": "9.0.0",
+            "Aspire.Hosting.Azure.AppConfiguration": "9.0.0",
+            "Aspire.Hosting.Azure.ApplicationInsights": "9.0.0",
+            "Aspire.Hosting.Azure.CosmosDB": "9.0.0",
+            "Aspire.Hosting.Azure.EventHubs": "9.0.0",
+            "Aspire.Hosting.Azure.KeyVault": "9.0.0",
+            "Aspire.Hosting.Azure.SignalR": "9.0.0",
+            "Aspire.Hosting.Azure.Sql": "9.0.0",
+            "Aspire.Hosting.Azure.Storage": "9.0.0",
+            "Aspire.Hosting.Kafka": "9.0.0",
+            "Aspire.Hosting.MySql": "9.0.0",
+            "Aspire.Hosting.RabbitMQ": "9.0.0",
+            "Aspire.Hosting.Redis": "9.0.0",
+            "Aspire.Hosting.SqlServer": "9.0.0",
+            "Aspire.Hosting.Testing": "9.0.0",
+            "Aspire.Microsoft.Azure.Cosmos": "9.0.0",
+            "Aspire.Microsoft.EntityFrameworkCore.Cosmos": "9.0.0",
+            "Aspire.Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+            "Aspire.Pomelo.EntityFrameworkCore.MySql": "9.0.0",
+            "Aspire.StackExchange.Redis": "9.0.0",
+            "Aspire.StackExchange.Redis.DistributedCaching": "9.0.0",
+            "Azure.Data.AppConfiguration": "1.5.0",
+            "Azure.Identity": "1.13.1",
+            "Azure.Monitor.OpenTelemetry.AspNetCore": "1.2.0",
+            "BlazorApplicationInsights": "3.1.0",
+            "CNinnovation.Codebreaker.Analyzers": "3.8.0",
+            "CNinnovation.Codebreaker.BackendModels": "3.8.0",
+            "CNinnovation.Codebreaker.Cosmos": "3.8.0",
+            "CNinnovation.Codebreaker.GamesClient": "3.8.0",
+            "CNinnovation.Codebreaker.SqlServer": "3.8.0",
+            "coverlet.collector": "6.0.2",
+            "Google.Protobuf": "3.28.3",
+            "Grpc.AspNetCore": "2.67.0",
+            "Grpc.Net.ClientFactory": "2.67.0",
+            "Grpc.Tools": "2.67.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": "9.0.0",
+            "Microsoft.AspNetCore.Components.QuickGrid": "9.0.0",
+            "Microsoft.AspNetCore.Components.Web": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "9.0.0",
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": "9.0.0",
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.0",
+            "Microsoft.AspNetCore.SignalR.Client": "9.0.0",
+            "Microsoft.AspNetCore.SignalR.Protocols.MessagePack": "9.0.0",
+            "Microsoft.Authentication.WebAssembly.Msal": "9.0.0",
+            "Microsoft.Azure.AppConfiguration.AspNetCore": "8.0.0",
+            "Microsoft.Azure.Cosmos": "3.46.0",
+            "Microsoft.Azure.SignalR": "1.29.0",
+            "Microsoft.EntityFrameworkCore.Cosmos": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Sqlite": "9.0.0",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
+            "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
+            "Microsoft.Extensions.ApiDescription.Server": "9.0.0",
+            "Microsoft.Extensions.Azure": "1.9.0",
+            "Microsoft.Extensions.Configuration": "9.0.0",
+            "Microsoft.Extensions.Configuration.AzureAppConfiguration": "8.0.0",
+            "Microsoft.Extensions.Configuration.Binder": "9.0.0",
+            "Microsoft.Extensions.Configuration.Json": "9.0.0",
+            "Microsoft.Extensions.Diagnostics.Testing": "9.0.0",
+            "Microsoft.Extensions.Hosting": "9.0.0",
+            "Microsoft.Extensions.Http": "9.0.0",
+            "Microsoft.Extensions.Http.Resilience": "9.0.0",
+            "Microsoft.Extensions.Localization": "9.0.0",
+            "Microsoft.Extensions.ServiceDiscovery": "9.0.0",
+            "Microsoft.Extensions.ServiceDiscovery.Yarp": "9.0.0",
+            "Microsoft.FeatureManagement.AspNetCore": "4.0.0",
+            "Microsoft.Identity.Web": "3.5.0",
+            "Microsoft.Identity.Web.DownstreamApi": "3.5.0",
+            "Microsoft.Identity.Web.UI": "3.5.0",
+            "Microsoft.Kiota.Http.HttpClientLibrary": "1.16.1",
+            "Microsoft.Kiota.Serialization.Form": "1.16.1",
+            "Microsoft.Kiota.Serialization.Json": "1.16.1",
+            "Microsoft.Kiota.Serialization.Multipart": "1.16.1",
+            "Microsoft.Kiota.Serialization.Text": "1.16.1",
+            "Microsoft.NET.Test.Sdk": "17.12.0",
+            "Microsoft.Playwright": "1.49.0",
+            "Microsoft.Playwright.NUnit": "1.49.0",
+            "Moq": "4.20.72",
+            "NUnit": "4.3.1",
+            "NUnit.Analyzers": "4.5.0",
+            "NUnit3TestAdapter": "4.6.0",
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.10.0",
+            "OpenTelemetry.Exporter.Prometheus.AspNetCore": "1.9.0-beta.2",
+            "OpenTelemetry.Extensions.Hosting": "1.10.0",
+            "OpenTelemetry.Instrumentation.AspNetCore": "1.10.1",
+            "OpenTelemetry.Instrumentation.GrpcNetClient": "1.0.0-rc9",
+            "OpenTelemetry.Instrumentation.Http": "1.10.0",
+            "OpenTelemetry.Instrumentation.Runtime": "1.10.0",
+            "Spectre.Console.Cli": "0.49.1",
+            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore.Annotations": "7.2.0",
+            "xunit": "2.9.2",
+            "xunit.runner.visualstudio": "3.0.0",
+            "Yarp.ReverseProxy": "2.2.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
