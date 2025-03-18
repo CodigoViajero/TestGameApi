@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codebreaker.InitalizeAppConfig")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2df2c32f1b324e0d03e7b7eee6dc8a68e5d2c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa5dd914dcfb82631ad19ab94b1b88559846fdf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codebreaker.InitalizeAppConfig")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codebreaker.InitalizeAppConfig")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

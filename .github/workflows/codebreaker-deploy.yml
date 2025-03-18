@@ -1,4 +1,4 @@
-name: Codebreaker backend workflow
+name: Codebreaker Deploy
 
 on:
   workflow_dispatch:
@@ -12,6 +12,7 @@ on:
 # To configure required secrets for connecting to Azure, simply run `azd pipeline config`
 
 # Set up permissions for deploying with secretless Azure federated credentials
+# https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Clinux#set-up-azure-login-with-openid-connect-authentication
 permissions:
   id-token: write
   contents: read
@@ -32,11 +33,11 @@ jobs:
       - name: Install azd
         uses: Azure/setup-azd@v1.0.0
 
-      # this is the version for the release
-      # - name: Install .NET Aspire workload
-      #   run: dotnet workload install aspire
+# this is the version for the release
+#      - name: Install .NET Aspire workload
+#        run: dotnet workload install aspire
 
-      # temporary version for daily build
+# temporary version for daily build
       - name: Update workloads
         run: dotnet workload update --skip-sign-check --source https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet8/nuget/v3/index.json
 
@@ -65,7 +66,7 @@ jobs:
         shell: pwsh
         env:
           AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
-      
+
       - name: Provision Infrastructure
         run: azd provision --debug --no-prompt
 
