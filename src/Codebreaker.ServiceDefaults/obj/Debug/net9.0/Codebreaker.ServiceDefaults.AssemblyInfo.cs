@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codebreaker.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcde0afb19c9580387a076751a318ca605ace4d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f505646b0f0165666a7ae1c019a86d6435a31695")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codebreaker.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codebreaker.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
